@@ -1,0 +1,15 @@
+#main {background-color: #D0e6db ; color: black; padding: 2em 2em; font-family: monospace, sans-serif;}
+h1 {font-size: 4em; color: #2f1924; text-align: center; padding: 0px 20px 0px 20px}
+h2 {font-size: 2em; color: #2f1924; text-align: center;}
+#img-div {text-align: center; font-size: 1.2em; }
+      #image {border-color: #2f1924; border-width: 10px; border-style: solid; border-radius: 20%; width: 100%;
+height: auto; max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
+display: block;}
+#img-caption {text-align: center; padding: 20px 20px 20px 20px; font-size: 15px; font-family: sans-serif;}
+#tribute-info {margin: 0px 0px 0px 820px; width: 700px; text-align: left;}
+#footer {background-color: #d0e6db; text-align: center; font-family: monospace, sans-serif; font-size: 23px;}
+#tribute-link:hover {color: blue;}
+#tribute-link2:hover {color: red;}
+a{ text-decoration: none;}
